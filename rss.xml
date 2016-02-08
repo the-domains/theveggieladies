@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[theveggieladies]]></title>
         <description><![CDATA[theveggieladies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theveggieladies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 20:38:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 20:44:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theveggieladies/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72c8bd1a-e315-450b-a360-172e3dba5e7a.JPG">]]></description>
+            <link>https://thegrid.ai/theveggieladies/14235414-aacc-4470-86e0-a7e4ca637026/index.html</link>
+            <guid isPermaLink="false">14235414-aacc-4470-86e0-a7e4ca637026</guid>
+            <pubDate>Mon, 08 Feb 2016 20:43:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f73e314-86c4-4440-8803-9b46e6f1c890.JPG">]]></description>
-            <link>undefined63d26c8d-050e-4e84-b6de-20345d7ba269/index.html</link>
+            <link>https://thegrid.ai/theveggieladies/63d26c8d-050e-4e84-b6de-20345d7ba269/index.html</link>
             <guid isPermaLink="false">63d26c8d-050e-4e84-b6de-20345d7ba269</guid>
             <pubDate>Mon, 08 Feb 2016 20:38:33 GMT</pubDate>
         </item>
